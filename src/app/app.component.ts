@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   templateUrl: './app.component.html',
 })
 export class App {
-  public nomAplicacio = "Catàleg d'Elements";
+  public nomAplicacio = "Projecte Base";
 }
