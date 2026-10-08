@@ -8,16 +8,15 @@ Cristian Romero
 Projecte base amb Angular del mòdul DA2_OA01
 
 ## Versions utilitzades
-node --version    : v24.21.0
-npm --version     : 11.19.0
-
-Angular CLI       : 22.2.2
-Angular           : 22.2.1
-Node.js           : 24.21.0
-Package Manager   : npm 11.19.0
-Operating System  : linux x64
-git version          : 2.34.1
-code                 : 1.123.0
+- node --version    : v24.21.0
+- npm --version     : 11.19.0
+- Angular CLI       : 22.2.2
+- Angular           : 22.2.1
+- Node.js           : 24.21.0
+- Package Manager   : npm 11.19.0
+- Operating System  : linux x64
+- git version          : 2.34.1
+- code                 : 1.123.0
 
 ## Com crear i executar el projecte
 `npm install` i `ng serve`
